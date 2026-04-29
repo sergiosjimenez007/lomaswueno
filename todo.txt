@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>EcoArq | Inicio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>EcoArq Sostenible</h1>
+        <p>Construyendo el futuro hoy</p>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">Inicio</a></li>
+            <li><a href="noticias.html">Noticias</a></li>
+            <li><a href="nosotros.html">Nosotros</a></li>
+            <li><a href="contacto.html">Contacto</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>Bienvenidos a la arquitectura del mañana</h2>
+            <article>
+                <h3>Nuestra Misión</h3>
+                <p>Aplicamos los estándares de HTML5 para difundir el conocimiento sobre materiales biodegradables.</p>
+                <figure>
+                    <img src="https://via.placeholder.com/400x200" alt="Casa eco">
+                    <figcaption>Figura 1: Prototipo de vivienda solar.</figcaption>
+                </figure>
+            </article>
+        </section>
+
+        <aside>
+            <h4>Dato Curioso</h4>
+            <p>El uso de madera certificada reduce la huella de carbono en un 30%.</p>
+        </aside>
+    </main>
+
+    <footer>
+        <small>Copyright &copy; 2023 EcoArq. Todos los derechos reservados.</small>
+    </footer>
+</body>
+</html>
